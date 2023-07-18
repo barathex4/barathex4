@@ -22,7 +22,7 @@
 			</section>
 		</article>
 		<footer>
-			Developed by K barath
+			Developed by K Anbarasan
 		</footer>
 	</body>
 </html>
